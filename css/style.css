@@ -1,0 +1,92 @@
+.cover-img {
+    background-image: linear-gradient(rgba(132, 30, 32, 0.34), rgb(132, 30, 31)), url(../assests/events-heavenly-header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 87vh;
+}
+
+.bg {
+    background-color: #e68285;
+}
+
+.bg-color {
+    background-color: #cccccc;
+}
+
+.singers-section {
+    width: 50%;
+}
+
+p {
+    max-width: 500px;
+}
+
+.countdown {
+    background-image: linear-gradient(rgba(132, 30, 32, 0.612), rgb(132, 30, 32)), url(../assests/invitation-2508607__340.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+}
+
+.item {
+    width: 200px;
+    height: 100px;
+    border: 1px white solid;
+    top: 100px;
+}
+
+.inner {
+    left: 70px;
+    top: 30px;
+}
+
+aside {
+
+    position: absolute;
+    top: 0px;
+    left: 0;
+    bottom: 0;
+
+}
+
+.icon {
+    right: 20px;
+    top: 5%;
+}
+
+.open {
+    position: absolute;
+    left: 200px;
+    width: 100px;
+}
+
+.navs {
+    position: fixed;
+    height: 100vh;
+    z-index: 2;
+
+}
+
+ul {
+    top: 30px;
+}
+
+i {
+    cursor: pointer;
+}
+
+.icon:hover {
+    color: rgba(132, 30, 32, 0.774) !important;
+}
+
+li:hover a {
+    color: rgba(132, 30, 32, 0.774) !important;
+}
+
+.btn:hover {
+    color: white !important;
+    background-color: rgb(151, 38, 40) !important;
+    border-color: rgb(186, 53, 55) !important;
+}
